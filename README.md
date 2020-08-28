@@ -299,8 +299,7 @@ Okay, *now* we're ready to build out functions:
     into the function as an argument?
 * Build a function, `teamColors`, that takes in an argument of the team name
   and returns an array of that teams colors.
-* Build a function, `teamNames`, that operates on the game object to return an
-  array of the team names.
+* Build a function, `teamNames`, that operates on the game object to return an array of the team names.
 * Build a function, `playerNumbers`, that takes in an argument of a team name
   and returns an array of the jersey number's for that team.
 * Build a function, `playerStats`, that takes in an argument of a player's name
