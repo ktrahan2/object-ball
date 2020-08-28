@@ -117,7 +117,7 @@ function gameObject() {
     return teams
 }
 
-//help functions
+//helper functions
 
 function homeTeamName() {
     return gameObject().home.teamName
